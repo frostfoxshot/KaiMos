@@ -1,3 +1,8 @@
+**KaiMos** is a fusion of the **Välkki-Örival** word *"kai-däin"* (meaning *excitement*) and *"cosmos"* (symbolizing the boundless expanse of the internet). Pronounced **/kaɪ.məs/**, this is my **focused fork of Commet**, aiming to breathe new life into it with fresh themes and vibrant energy.
+
+For reference, the original **Commet documentation** is included below.
+
+# Original Documentation
 <p align="center" style="padding-top:20px">
 <img src="https://raw.githubusercontent.com/commetchat/.github/refs/heads/main/assets/banner.png">
 
