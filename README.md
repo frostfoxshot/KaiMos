@@ -1,6 +1,9 @@
+# KaiMos
 **KaiMos** is a fusion of the **Välkki-Örival** word *"kai-däin"* (meaning *excitement*) and *"cosmos"* (symbolizing the boundless expanse of the internet). Pronounced **/kaɪ.məs/**, this is my **focused fork of Commet**, aiming to breathe new life into it with fresh themes and vibrant energy.
 
 For reference, the original **Commet documentation** is included below.
+---
+KaiMos will pack additional features, themes, and configurations compared to Commet. This is the Matrix client fork I’m pouring the most effort into, and it’ll only sync with official Commet releases—no in-between GitHub commits. This keeps KaiMos stable, unlike the failed "frostrinne" (that Element fork with rolling updates that broke everything). KaiMos should use the same build instructions as commet. There is a KaiMos cilented hosted at https://kaimos.aexelgroup.app, however, it is not up-to-date most the time with this repo and is slow, so it is reccomended to build from source. Once significant features are added to KaiMos, I will add prebuilt binaries for linux (aarch64 and x86_64), Windows (x86), and potentially MacOS.
 
 # Original Documentation
 <p align="center" style="padding-top:20px">
